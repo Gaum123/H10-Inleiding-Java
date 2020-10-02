@@ -1,4 +1,4 @@
-package h10;
+package H10Java;
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
